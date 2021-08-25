@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Know Your Scientist"
 theme = "navigator-hugo"
 summaryLength = 10
+author = "Know Your Scientist"
+description = "This is meta description"
+
 
 # Build robots.txt file
 enableRobotsTXT = true
@@ -14,31 +17,14 @@ pygmentsCodeFences = true
 
 # Site Params
 [params]
-logo = "images/logo.png"
-
-# meta data
-author = "Know Your Scientist"
-description = "This is meta description"
-
+#logo = "images/logo.png"
 home = "Home"
-logo = "images/logo.png"
-menufixed = false
 
 [Languages.en]
 weight = 2
 languageCode = "en-us"
-title = "Example site multi-language"
 dateFormat = "January 2, 2006"
-home = "Home"
-logo = "images/logo.png"
 menufixed = false
-
-footerDescription = "Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
-footerServiceTitle = "Service"
-footerQuicklinkTitle = "Quicklinks"
-footerAboutTitle = "About"
-footerSubscribeTitle = "Subscribe"
-
 
 # cookies
 [params.cookies]
@@ -50,11 +36,11 @@ expire_days = 2
 enable  = true
 heading = "Know Your Scientist"
 description = "Know Your Scientist Punline or short discription"
-button  = true
-btnText = "Know More"
-btnURL  = "https://themefisher.com/"
-#videoThumb = "images/slider/video-player-thumb.jpg"
-#videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
+#button  = true
+#btnText = "Know More"
+#btnURL  = "https://themefisher.com/"
+videoThumb = "images/slider/video-player-thumb.jpg"
+videoURL   = "https://www.youtube.com/embed/aFTeSJXxr7w"
 
 # About 2 Section
 [Languages.en.params.aboutSm]

@@ -4,7 +4,7 @@ title   : Our Team.
 subtitle: Members from all over the world ...
 
 member  :
-  - image         : images/team/member-1.jpg
+  - image         : images/team/neha.jpg
     name          : Neha Bansal
     designation   : Biologist, NIH
     description   : >
@@ -12,16 +12,16 @@ member  :
     facebookURL   : https://www.facebook.com/
     twitterURL    : https://twitter.com/
  
-  - image         : images/team/member-2.jpg
-    name          : Pedro Milanez-Almeida
+  - image         : images/team/pedro.jpg
+    name          : Pedro Milanez-Almeida, PhD
     designation   : Computational Biologist, NIH
     description   : >
       Brazil
     facebookURL   : https://www.facebook.com/
     twitterURL    : https://twitter.com/
     
-  - image         : images/team/member-3.jpg
-    name          : Rohit Farmer
+  - image         : images/team/rohit.jpg
+    name          : Rohit Farmer, PhD
     designation   : Computational Biologist, NIH
     description   : >
       India
